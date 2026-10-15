@@ -1,0 +1,602 @@
+[
+ {
+  "station_code": "011001",
+  "station_name": "Костомукша",
+  "road_name": "Октябрьская"
+ },
+ {
+  "station_code": "011002",
+  "station_name": "Лужская",
+  "road_name": "Октябрьская"
+ },
+ {
+  "station_code": "011003",
+  "station_name": "Мурманск",
+  "road_name": "Октябрьская"
+ },
+ {
+  "station_code": "011004",
+  "station_name": "Починок-1",
+  "road_name": "Октябрьская"
+ },
+ {
+  "station_code": "011005",
+  "station_name": "Берёзовка-Южная",
+  "road_name": "Октябрьская"
+ },
+ {
+  "station_code": "011006",
+  "station_name": "Затишье-Северная",
+  "road_name": "Октябрьская"
+ },
+ {
+  "station_code": "011007",
+  "station_name": "Затон-1",
+  "road_name": "Октябрьская"
+ },
+ {
+  "station_code": "011008",
+  "station_name": "Затон-Южная",
+  "road_name": "Октябрьская"
+ },
+ {
+  "station_code": "011009",
+  "station_name": "Луговая-Западная",
+  "road_name": "Октябрьская"
+ },
+ {
+  "station_code": "021001",
+  "station_name": "Орехово-Зуево",
+  "road_name": "Московская"
+ },
+ {
+  "station_code": "021002",
+  "station_name": "Бекасово-Сортировочное",
+  "road_name": "Московская"
+ },
+ {
+  "station_code": "021003",
+  "station_name": "Рыбное",
+  "road_name": "Московская"
+ },
+ {
+  "station_code": "021004",
+  "station_name": "Заречное-2",
+  "road_name": "Московская"
+ },
+ {
+  "station_code": "021005",
+  "station_name": "Известковая-Грузовая",
+  "road_name": "Московская"
+ },
+ {
+  "station_code": "021006",
+  "station_name": "Ельник-Южная",
+  "road_name": "Московская"
+ },
+ {
+  "station_code": "021007",
+  "station_name": "Овражки-Западная",
+  "road_name": "Московская"
+ },
+ {
+  "station_code": "021008",
+  "station_name": "Луговая-Сортировочная",
+  "road_name": "Московская"
+ },
+ {
+  "station_code": "021009",
+  "station_name": "Никольское-Западная",
+  "road_name": "Московская"
+ },
+ {
+  "station_code": "031001",
+  "station_name": "Нефтяная-Товарная",
+  "road_name": "Горьковская"
+ },
+ {
+  "station_code": "031002",
+  "station_name": "Сосенки-Восточная",
+  "road_name": "Горьковская"
+ },
+ {
+  "station_code": "031003",
+  "station_name": "Кедровка-Восточная",
+  "road_name": "Горьковская"
+ },
+ {
+  "station_code": "031004",
+  "station_name": "Луговая-Промышленная",
+  "road_name": "Горьковская"
+ },
+ {
+  "station_code": "031005",
+  "station_name": "Починок-Грузовая",
+  "road_name": "Горьковская"
+ },
+ {
+  "station_code": "031006",
+  "station_name": "Плёс-1",
+  "road_name": "Горьковская"
+ },
+ {
+  "station_code": "041001",
+  "station_name": "Череповец-2",
+  "road_name": "Северная"
+ },
+ {
+  "station_code": "041002",
+  "station_name": "Лоста",
+  "road_name": "Северная"
+ },
+ {
+  "station_code": "041003",
+  "station_name": "Ярославль-Главный",
+  "road_name": "Северная"
+ },
+ {
+  "station_code": "041004",
+  "station_name": "Затон-Сортировочная",
+  "road_name": "Северная"
+ },
+ {
+  "station_code": "041005",
+  "station_name": "Покровка-Грузовая",
+  "road_name": "Северная"
+ },
+ {
+  "station_code": "041006",
+  "station_name": "Дубровка-Товарная",
+  "road_name": "Северная"
+ },
+ {
+  "station_code": "041007",
+  "station_name": "Выселки-1",
+  "road_name": "Северная"
+ },
+ {
+  "station_code": "041008",
+  "station_name": "Затон-Северная",
+  "road_name": "Северная"
+ },
+ {
+  "station_code": "041009",
+  "station_name": "Каменка-Сортировочная",
+  "road_name": "Северная"
+ },
+ {
+  "station_code": "051001",
+  "station_name": "Новороссийск-Экспорт",
+  "road_name": "Северо-Кавказская"
+ },
+ {
+  "station_code": "051002",
+  "station_name": "Туапсе-Сортировочная",
+  "road_name": "Северо-Кавказская"
+ },
+ {
+  "station_code": "051003",
+  "station_name": "Ростов-Товарный",
+  "road_name": "Северо-Кавказская"
+ },
+ {
+  "station_code": "051004",
+  "station_name": "Лихая",
+  "road_name": "Северо-Кавказская"
+ },
+ {
+  "station_code": "051005",
+  "station_name": "Ивановка-Товарная",
+  "road_name": "Северо-Кавказская"
+ },
+ {
+  "station_code": "051006",
+  "station_name": "Каменка-Товарная",
+  "road_name": "Северо-Кавказская"
+ },
+ {
+  "station_code": "051007",
+  "station_name": "Затишье-Восточная",
+  "road_name": "Северо-Кавказская"
+ },
+ {
+  "station_code": "051008",
+  "station_name": "Сосенки-Промышленная",
+  "road_name": "Северо-Кавказская"
+ },
+ {
+  "station_code": "051009",
+  "station_name": "Курган-Сортировочная",
+  "road_name": "Северо-Кавказская"
+ },
+ {
+  "station_code": "051010",
+  "station_name": "Затишье-Промышленная",
+  "road_name": "Северо-Кавказская"
+ },
+ {
+  "station_code": "061001",
+  "station_name": "Стойленская",
+  "road_name": "Юго-Восточная"
+ },
+ {
+  "station_code": "061002",
+  "station_name": "Старый Оскол",
+  "road_name": "Юго-Восточная"
+ },
+ {
+  "station_code": "061003",
+  "station_name": "Песчаная-Грузовая",
+  "road_name": "Юго-Восточная"
+ },
+ {
+  "station_code": "061004",
+  "station_name": "Гранитная-Западная",
+  "road_name": "Юго-Восточная"
+ },
+ {
+  "station_code": "061005",
+  "station_name": "Родник-2",
+  "road_name": "Юго-Восточная"
+ },
+ {
+  "station_code": "061006",
+  "station_name": "Брод-Товарная",
+  "road_name": "Юго-Восточная"
+ },
+ {
+  "station_code": "061007",
+  "station_name": "Заводское-1",
+  "road_name": "Юго-Восточная"
+ },
+ {
+  "station_code": "061008",
+  "station_name": "Кедровка-Промышленная",
+  "road_name": "Юго-Восточная"
+ },
+ {
+  "station_code": "071001",
+  "station_name": "Саратов-Товарный",
+  "road_name": "Приволжская"
+ },
+ {
+  "station_code": "071002",
+  "station_name": "Волгоград-2",
+  "road_name": "Приволжская"
+ },
+ {
+  "station_code": "071003",
+  "station_name": "Дубровка-Восточная",
+  "road_name": "Приволжская"
+ },
+ {
+  "station_code": "071004",
+  "station_name": "Хлебная-Восточная",
+  "road_name": "Приволжская"
+ },
+ {
+  "station_code": "071005",
+  "station_name": "Кедровка-Южная",
+  "road_name": "Приволжская"
+ },
+ {
+  "station_code": "071006",
+  "station_name": "Полянка-Товарная",
+  "road_name": "Приволжская"
+ },
+ {
+  "station_code": "071007",
+  "station_name": "Хлебная-Промышленная",
+  "road_name": "Приволжская"
+ },
+ {
+  "station_code": "071008",
+  "station_name": "Гранитная-2",
+  "road_name": "Приволжская"
+ },
+ {
+  "station_code": "081001",
+  "station_name": "Сызрань-1",
+  "road_name": "Куйбышевская"
+ },
+ {
+  "station_code": "081002",
+  "station_name": "Уфа",
+  "road_name": "Куйбышевская"
+ },
+ {
+  "station_code": "081003",
+  "station_name": "Починок-Восточная",
+  "road_name": "Куйбышевская"
+ },
+ {
+  "station_code": "081004",
+  "station_name": "Овражки-Восточная",
+  "road_name": "Куйбышевская"
+ },
+ {
+  "station_code": "081005",
+  "station_name": "Мыс-Грузовая",
+  "road_name": "Куйбышевская"
+ },
+ {
+  "station_code": "081006",
+  "station_name": "Ручей-Товарная",
+  "road_name": "Куйбышевская"
+ },
+ {
+  "station_code": "081007",
+  "station_name": "Заводское-Товарная",
+  "road_name": "Куйбышевская"
+ },
+ {
+  "station_code": "091001",
+  "station_name": "Екатеринбург-Сортировочный",
+  "road_name": "Свердловская"
+ },
+ {
+  "station_code": "091002",
+  "station_name": "Пермь-Сортировочная",
+  "road_name": "Свердловская"
+ },
+ {
+  "station_code": "091003",
+  "station_name": "Яр-Восточная",
+  "road_name": "Свердловская"
+ },
+ {
+  "station_code": "091004",
+  "station_name": "Выселки-Южная",
+  "road_name": "Свердловская"
+ },
+ {
+  "station_code": "091005",
+  "station_name": "Сосенки-Грузовая",
+  "road_name": "Свердловская"
+ },
+ {
+  "station_code": "091006",
+  "station_name": "Хлебная-Товарная",
+  "road_name": "Свердловская"
+ },
+ {
+  "station_code": "091007",
+  "station_name": "Рудничная-Южная",
+  "road_name": "Свердловская"
+ },
+ {
+  "station_code": "101001",
+  "station_name": "Челябинск-Главный",
+  "road_name": "Южно-Уральская"
+ },
+ {
+  "station_code": "101002",
+  "station_name": "Магнитогорск-Грузовой",
+  "road_name": "Южно-Уральская"
+ },
+ {
+  "station_code": "101003",
+  "station_name": "Оренбург",
+  "road_name": "Южно-Уральская"
+ },
+ {
+  "station_code": "101004",
+  "station_name": "Ручей-1",
+  "road_name": "Южно-Уральская"
+ },
+ {
+  "station_code": "101005",
+  "station_name": "Затишье-Товарная",
+  "road_name": "Южно-Уральская"
+ },
+ {
+  "station_code": "101006",
+  "station_name": "Ельник-Западная",
+  "road_name": "Южно-Уральская"
+ },
+ {
+  "station_code": "101007",
+  "station_name": "Берёзовка-Грузовая",
+  "road_name": "Южно-Уральская"
+ },
+ {
+  "station_code": "101008",
+  "station_name": "Сосновка-Южная",
+  "road_name": "Южно-Уральская"
+ },
+ {
+  "station_code": "111001",
+  "station_name": "Кемерово-Сортировочное",
+  "road_name": "Западно-Сибирская"
+ },
+ {
+  "station_code": "111002",
+  "station_name": "Новокузнецк-Восточный",
+  "road_name": "Западно-Сибирская"
+ },
+ {
+  "station_code": "111003",
+  "station_name": "Инская",
+  "road_name": "Западно-Сибирская"
+ },
+ {
+  "station_code": "111004",
+  "station_name": "Алтайская",
+  "road_name": "Западно-Сибирская"
+ },
+ {
+  "station_code": "111005",
+  "station_name": "Мариинск",
+  "road_name": "Западно-Сибирская"
+ },
+ {
+  "station_code": "111006",
+  "station_name": "Покровка-Товарная",
+  "road_name": "Западно-Сибирская"
+ },
+ {
+  "station_code": "111007",
+  "station_name": "Сосенки-Южная",
+  "road_name": "Западно-Сибирская"
+ },
+ {
+  "station_code": "111008",
+  "station_name": "Затишье-Западная",
+  "road_name": "Западно-Сибирская"
+ },
+ {
+  "station_code": "111009",
+  "station_name": "Яр-2",
+  "road_name": "Западно-Сибирская"
+ },
+ {
+  "station_code": "111010",
+  "station_name": "Луговая-Южная",
+  "road_name": "Западно-Сибирская"
+ },
+ {
+  "station_code": "121001",
+  "station_name": "Ачинск",
+  "road_name": "Красноярская"
+ },
+ {
+  "station_code": "121002",
+  "station_name": "Красноярск-Восточный",
+  "road_name": "Красноярская"
+ },
+ {
+  "station_code": "121003",
+  "station_name": "Бор-Восточная",
+  "road_name": "Красноярская"
+ },
+ {
+  "station_code": "121004",
+  "station_name": "Хлебная-2",
+  "road_name": "Красноярская"
+ },
+ {
+  "station_code": "121005",
+  "station_name": "Плёс-Грузовая",
+  "road_name": "Красноярская"
+ },
+ {
+  "station_code": "121006",
+  "station_name": "Медное-Сортировочная",
+  "road_name": "Красноярская"
+ },
+ {
+  "station_code": "121007",
+  "station_name": "Полянка-2",
+  "road_name": "Красноярская"
+ },
+ {
+  "station_code": "131001",
+  "station_name": "Тайшет",
+  "road_name": "Восточно-Сибирская"
+ },
+ {
+  "station_code": "131002",
+  "station_name": "Иркутск-Сортировочный",
+  "road_name": "Восточно-Сибирская"
+ },
+ {
+  "station_code": "131003",
+  "station_name": "Улан-Удэ",
+  "road_name": "Восточно-Сибирская"
+ },
+ {
+  "station_code": "131004",
+  "station_name": "Соляная-Промышленная",
+  "road_name": "Восточно-Сибирская"
+ },
+ {
+  "station_code": "131005",
+  "station_name": "Сосновка-Товарная",
+  "road_name": "Восточно-Сибирская"
+ },
+ {
+  "station_code": "131006",
+  "station_name": "Покровка-Сортировочная",
+  "road_name": "Восточно-Сибирская"
+ },
+ {
+  "station_code": "131007",
+  "station_name": "Затишье-Южная",
+  "road_name": "Восточно-Сибирская"
+ },
+ {
+  "station_code": "131008",
+  "station_name": "Гранитная-Восточная",
+  "road_name": "Восточно-Сибирская"
+ },
+ {
+  "station_code": "141001",
+  "station_name": "Чита-1",
+  "road_name": "Забайкальская"
+ },
+ {
+  "station_code": "141002",
+  "station_name": "Каменка-2",
+  "road_name": "Забайкальская"
+ },
+ {
+  "station_code": "141003",
+  "station_name": "Раздолье-Грузовая",
+  "road_name": "Забайкальская"
+ },
+ {
+  "station_code": "141004",
+  "station_name": "Яр-Сортировочная",
+  "road_name": "Забайкальская"
+ },
+ {
+  "station_code": "141005",
+  "station_name": "Бор-Сортировочная",
+  "road_name": "Забайкальская"
+ },
+ {
+  "station_code": "141006",
+  "station_name": "Песчаная-Промышленная",
+  "road_name": "Забайкальская"
+ },
+ {
+  "station_code": "151001",
+  "station_name": "Хабаровск-2",
+  "road_name": "Дальневосточная"
+ },
+ {
+  "station_code": "151002",
+  "station_name": "Находка-Восточная",
+  "road_name": "Дальневосточная"
+ },
+ {
+  "station_code": "151003",
+  "station_name": "Ванино",
+  "road_name": "Дальневосточная"
+ },
+ {
+  "station_code": "151004",
+  "station_name": "Сосновка-1",
+  "road_name": "Дальневосточная"
+ },
+ {
+  "station_code": "151005",
+  "station_name": "Гранитная-Южная",
+  "road_name": "Дальневосточная"
+ },
+ {
+  "station_code": "151006",
+  "station_name": "Каменка-Восточная",
+  "road_name": "Дальневосточная"
+ },
+ {
+  "station_code": "151007",
+  "station_name": "Курган-Товарная",
+  "road_name": "Дальневосточная"
+ },
+ {
+  "station_code": "151008",
+  "station_name": "Кедровка-Грузовая",
+  "road_name": "Дальневосточная"
+ }
+]
